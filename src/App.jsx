@@ -1,10 +1,11 @@
 import React from "react";
 import Profile from "./components/Profile";
-
+import Useeff from "./components/Useeff";
 const App = () => {
   return (
     <div>
-      <Profile />
+      {/* <Profile /> */}
+      <Useeff />
     </div>
   );
 };
